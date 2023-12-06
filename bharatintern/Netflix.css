@@ -1,0 +1,669 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=EB+Garamond:ital,wght@1,400;1,500&family=Pacifico&family=Roboto:wght@900&display=swap');
+
+* {
+       margin: 0;
+       padding: 0;
+       font-size: medium;
+       color: white;
+       font-weight: 900;
+
+
+}
+
+.first {
+       background-image: linear-gradient(rgba(0, 0, 0, 0.822), rgba(0, 0, 0, 0.802)), url('bharatinternpic/2.jpg');
+       background-position: center;
+       background-repeat: no-repeat;
+       background-attachment: absolute;
+       background-size: cover;
+       width: 100%;
+       height: 700px;
+
+
+
+
+}
+
+.block1 {
+       display: inline-flex;
+       margin-top: 20px;
+}
+
+.logo {
+       width: 250px;
+       height: 120px;
+       margin-top: -30px;
+
+}
+
+.drop {
+       display: inline-flex;
+
+
+
+
+
+
+}
+
+.dropdown {
+       margin-left: 850px;
+       background-color: black;
+
+
+
+
+}
+
+.dropdown a {
+       background-color: black;
+}
+
+.si {
+       margin-top: 7px;
+}
+
+.signin {
+       padding: 5px;
+       margin-left: 10px;
+       text-decoration: none;
+       margin-top: -20px;
+       border: 2px solid rgb(214, 14, 14);
+       margin-top: 5px;
+       background-color: rgb(214, 14, 14);
+       border-radius: 5px;
+       padding-left: 10px;
+       padding-right: 10px;
+       color: white;
+       font-weight: 600;
+}
+
+.signin:hover {
+       background-color: rgb(166, 13, 13);
+       border: 2px solid rgb(166, 13, 13);
+}
+
+.pre1 {
+       font-weight: 900;
+       font-size: 60px;
+       color: white;
+       margin-left: 200px;
+       font-family: 'Bebas Neue', sans-serif;
+       font-family: 'EB Garamond', serif;
+       font-family: 'Pacifico', cursive;
+       font-family: 'Roboto', sans-serif;
+       margin-top: 50px;
+}
+
+.pre2 {
+       font-size: 20px;
+       font-weight: 900;
+       color: white;
+       margin-left: 200px;
+       font-family: 'Bebas Neue', sans-serif;
+       font-family: 'EB Garamond', serif;
+       font-family: 'Pacifico', cursive;
+       font-family: 'Roboto', sans-serif;
+}
+
+.pre3 {
+
+       font-size: 15px;
+       font-weight: 900;
+       color: rgba(255, 255, 255, 0.59);
+       margin-left: 200px;
+       font-family: 'Bebas Neue', sans-serif;
+       font-family: 'EB Garamond', serif;
+       font-family: 'Pacifico', cursive;
+       font-family: 'Roboto', sans-serif;
+}
+
+.text {
+       margin-left: 200px;
+       display: inline-flex;
+
+
+}
+
+.place {
+       background-color: rgba(255, 255, 255, 0.067);
+
+       margin-top: 5px;
+       border-radius: 5px;
+}
+
+input[type=email] {
+       padding: 12px;
+       border: 1px solid white;
+       border-radius: 5px;
+       padding-right: 150px;
+       color: rgb(243, 236, 236);
+}
+
+
+.signin2 {
+       padding: 5px;
+       margin-left: 10px;
+       text-decoration: none;
+       padding-top: 10px;
+       border: 2px solid rgb(214, 14, 14);
+       margin-top: 5px;
+       background-color: rgb(214, 14, 14);
+       border-radius: 5px;
+       padding-left: 20px;
+       padding-right: 20px;
+       color: white;
+       font-weight: 600;
+       font-size: 30px;
+}
+
+.signin2:hover {
+       background-color: rgb(166, 13, 13);
+       border: 2px solid rgb(166, 13, 13);
+}
+
+.second {
+       width: 100%;
+       height: 150px;
+       background-color: black;
+       border-radius: 100% 100% 0px 0px;
+       margin-top: -100px;
+       border: 2px solid black;
+       box-shadow: 20px 0px 20px 0px rgb(183, 3, 248), 20px 0px 20px 0px rgb(248, 3, 109);
+}
+
+.heading {
+       margin-top: 80px;
+       margin-left: 200px;
+       font-family: 'Bebas Neue', sans-serif;
+       font-family: 'EB Garamond', serif;
+       font-family: 'Pacifico', cursive;
+       font-family: 'Roboto', sans-serif;
+       font-size: 30px;
+
+}
+
+.third {
+       margin-top: -20px;
+       border: 2px solid black;
+       background-color: black;
+       padding-bottom: 100px;
+}
+
+.t1 {
+
+       margin-left: 200px;
+       margin-right: 200px;
+       height: 400px;
+       margin-top: 20px;
+       border-radius: 30px;
+       background-image: url('bharatinternpic/5.jpg');
+       background-position: center;
+       background-repeat: no-repeat;
+       background-attachment: absolute;
+       background-size: cover;
+       border: 1px solid rgb(59, 3, 25);
+       padding-bottom: 100px;
+
+
+
+}
+
+.pt1 {
+       font-family: 'Bebas Neue', sans-serif;
+       font-family: 'EB Garamond', serif;
+       font-family: 'Pacifico', cursive;
+       font-family: 'Roboto', sans-serif;
+       font-size: 30px;
+       margin-top: 100px;
+       margin-left: 30px;
+
+}
+
+.pt2 {
+       font-family: 'Bebas Neue', sans-serif;
+       font-family: 'EB Garamond', serif;
+       font-family: 'Pacifico', cursive;
+       font-family: 'Roboto', sans-serif;
+       font-size: 18px;
+       margin-top: 20px;
+       margin-left: 30px;
+       color: rgba(255, 255, 255, 0.687);
+
+}
+
+.four {
+       height: 400px;
+       background-color: black;
+       width: 100%;
+
+
+
+
+}
+
+.four1 {
+       font-family: 'Bebas Neue', sans-serif;
+       font-family: 'EB Garamond', serif;
+       font-family: 'Pacifico', cursive;
+       font-family: 'Roboto', sans-serif;
+       font-size: 30px;
+
+       background-color: black;
+       margin-left: 200px;
+
+
+}
+
+.ft1 {
+       font-family: 'Bebas Neue', sans-serif;
+       font-family: 'EB Garamond', serif;
+       font-family: 'Pacifico', cursive;
+       font-family: 'Roboto', sans-serif;
+       font-size: 20px;
+       margin-left: 15px;
+       margin-top: 20px;
+
+}
+
+.ft2 {
+       font-family: 'Bebas Neue', sans-serif;
+       font-family: 'EB Garamond', serif;
+       font-family: 'Pacifico', cursive;
+       font-family: 'Roboto', sans-serif;
+       font-size: 14px;
+       color: rgba(255, 255, 255, 0.572);
+       margin-left: 10px;
+       margin-top: 10px;
+}
+
+.four11 {
+       background-image: url('bharatinternpic/6.jpg');
+       background-position: center;
+       background-repeat: no-repeat;
+       background-size: cover;
+
+       margin: 10px;
+       padding: 5px;
+       margin-right: 20px;
+       margin-bottom: -100px;
+       margin-left: 180px;
+       border-radius: 30px;
+
+}
+
+.four2 {
+       background-image: url('bharatinternpic/6.jpg');
+       background-position: center;
+       background-repeat: no-repeat;
+       background-size: cover;
+       margin: 10px;
+       padding: 5px;
+       margin-right: 20px;
+       margin-bottom: -100px;
+       margin-left: 20px;
+       border-radius: 30px;
+}
+
+.four22 {
+       background-image: url('bharatinternpic/6.jpg');
+       background-position: center;
+       background-repeat: no-repeat;
+       background-size: cover;
+       margin: 10px;
+       padding: 5px;
+       margin-right: 20px;
+       margin-bottom: -100px;
+       margin-right: 50px;
+       border-radius: 30px;
+}
+
+.four3 {
+       display: inline-flex;
+       margin-left: 20px;
+       height: 200px;
+       width: 100%;
+
+}
+
+.four2 i {
+       margin-left: 150px;
+       margin-top: 70px;
+
+}
+
+.four11 i {
+       margin-left: 150px;
+       margin-top: 50px;
+
+}
+
+.four22 i {
+       margin-left: 150px;
+       margin-top: 40px;
+
+}
+
+.i2 {
+
+       margin-top: -50px;
+}
+
+.five {
+       margin-top: -30px;
+       background-color: black;
+}
+
+.FAQ__accordian {
+       width: 100%;
+}
+
+.FAQ__title {
+       width: 100%;
+       display: flex;
+       justify-content: space-between;
+       padding: 15px 20px;
+       font-size: 18px;
+       background-color: #303030;
+       border: 1px solid #303030;
+       color: white;
+}
+
+.FAQ__visible {
+       background-color: #303030;
+       border-top: 1px solid black;
+       max-height: 0;
+       overflow: hidden;
+       transition: max-height 0.5s ease-in-out;
+}
+
+.FAQ__visible>p {
+       margin: 1rem;
+}
+
+.FAQ__list__container {
+
+       margin-left: -170px;
+}
+
+.FAQ__heading {
+       font-size: 20px;
+       text-align: center;
+       font-weight: 600;
+       margin: 1rem 3rem;
+
+       color: white;
+}
+
+.FAQ__list {
+       display: flex;
+       flex-direction: column;
+       justify-content: center;
+       align-items: center;
+       gap: 10px;
+}
+
+.text1 {
+       margin-left: 450px;
+       display: inline-flex;
+
+
+}
+
+
+.place1 {
+       background-color: rgba(255, 255, 255, 0.067);
+
+       margin-top: 5px;
+       border-radius: 5px;
+}
+
+input[type=email] {
+       padding: 12px;
+       border: 1px solid white;
+       border-radius: 5px;
+       padding-right: 150px;
+       color: rgb(243, 236, 236);
+}
+
+
+.signin3 {
+       padding: 5px;
+       margin-left: 10px;
+       text-decoration: none;
+       padding-top: 10px;
+       border: 2px solid rgb(214, 14, 14);
+       margin-top: 5px;
+       background-color: rgb(214, 14, 14);
+       border-radius: 5px;
+       padding-left: 20px;
+       padding-right: 20px;
+       color: white;
+       font-weight: 600;
+       font-size: 30px;
+}
+
+.signin3:hover {
+       background-color: rgb(166, 13, 13);
+       border: 2px solid rgb(166, 13, 13);
+}
+
+.FAQ__get__started__email {
+       text-align: center;
+}
+
+.FAQ__get__started__email>h3 {
+       font-size: 18px;
+       font-weight: 400;
+       margin: 2rem 0;
+}
+
+footer {
+
+       padding: 2rem 1rem;
+       color: #757575;
+       display: flex;
+       flex-direction: column;
+       gap: 20px;
+}
+
+.footer__row__2 {
+       display: flex;
+       flex-wrap: wrap;
+       justify-content: space-around;
+       gap: 20px;
+}
+
+.footer__row__1>h4 {
+       font-size: 15px;
+       font-weight: 500;
+}
+
+.footer__row__3>.dropdown__container {
+       width: fit-content;
+       border: 1px solid #757575;
+       color: #757575;
+}
+
+.footer__row__3>.dropdown__container>.language__drop__down {
+       color: #757575;
+}
+
+@media (min-width: 768px) {
+       .hero__bg__image__container {
+              height: 100vh;
+       }
+
+       .hero__bg__overlay {
+              height: 100vh;
+       }
+
+       .hero__card {
+              top: 40%;
+              left: 30%;
+              transform: translate(-20%, -20%);
+       }
+
+       .hero__title {
+              font-size: 3rem;
+       }
+
+       .hero__subtitle,
+       .hero__description {
+              font-size: 1.3rem;
+       }
+
+       .feature {
+              padding: 4rem;
+       }
+
+       .feature__title {
+              font-size: 35px;
+       }
+
+       .feature__sub__title {
+              font-size: 20px;
+       }
+
+       .feature__2__poster__container {
+              max-width: 26em;
+              height: 85px;
+       }
+
+       .poster__container {
+              width: 15%;
+       }
+
+       .download__gif__container {
+              width: 3rem;
+              height: 3rem;
+       }
+
+       .poster__details>h4 {
+              font-size: 18px;
+       }
+
+       .poster__details>h6 {
+              font-size: 14px;
+       }
+
+       .FAQ__title {
+              font-size: 20px;
+       }
+
+       .FAQ__heading {
+              font-size: 38px;
+              font-weight: 500;
+              letter-spacing: 1px;
+       }
+
+       .FAQ__list {
+              padding: 1rem 5rem;
+       }
+
+       .FAQ__get__started__email {
+              width: 75%;
+              display: flex;
+              flex-direction: column;
+              justify-content: center;
+              transform: translateX(15%);
+       }
+}
+
+@media (min-width: 1024px) {
+       .navbar {
+              padding: 2% 5%;
+       }
+
+       .navbar__brand {
+              width: 150px;
+       }
+
+       .signin__button {
+              padding: 10px 20px;
+              font-size: 18px;
+       }
+
+       .dropdown__container {
+              padding: 10px 5px;
+       }
+
+       .navbar__nav__items {
+              gap: 30px;
+       }
+
+       .hero__card {
+              top: 50%;
+              left: 50%;
+              transform: translate(-50%, -50%);
+       }
+
+
+
+       .feature {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              gap: 20px;
+       }
+
+       .feature__details {
+              text-align: left;
+              padding: 0 6rem;
+       }
+
+       .feature__title {
+              font-size: 50px;
+       }
+
+       .feature__sub__title {
+              font-size: 25px;
+       }
+
+       .feature__image__container {
+              max-width: 500px;
+       }
+
+       .feature:nth-child(even) {
+              flex-direction: row-reverse;
+       }
+
+       .feature__2__poster__container {
+              max-width: 20em;
+              height: 100px;
+              padding: 1rem;
+       }
+
+       .poster__container {
+              width: 20%;
+       }
+
+       .FAQ__list {
+              padding: 1rem 25rem;
+       }
+
+       .FAQ__get__started__email {
+              transform: translateX(16%);
+       }
+
+       footer {
+              padding: 2rem 20rem;
+              justify-content: flex-start;
+              text-align: left;
+              align-items: flex-start;
+       }
+
+       .footer__row__2 {
+              justify-content: space-between;
+              align-items: flex-start;
+              flex-wrap: nowrap;
+       }
+
+       .footer__row__1,
+       .footer__row__3,
+       .footer__row__4 {
+              align-self: flex-start;
+       }
+}
+
+@media (min-width: 1254px) {}
